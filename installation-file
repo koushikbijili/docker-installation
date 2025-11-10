@@ -3,9 +3,9 @@
 # ---------------------------------------------
 # Docker Installation Script for Ubuntu Server
 # Author: Koushik
-# GitHub: https://github.com/koushikbijili/docker-installation.git
+# GitHub: https://raw.githubusercontent.com/koushikbijili/docker-installation/refs/heads/main/installation-file
 # ---------------------------------------------
-
+# command to be used to installation : curl -fsSL https://raw.githubusercontent.com/koushikbijili/docker-installation/refs/heads/main/installation-file |sudo bash
 # Exit immediately if a command exits with a non-zero status
 set -e
 
